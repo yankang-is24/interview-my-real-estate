@@ -31,5 +31,10 @@ The accordion should have the following structure:
   of `Apartment | 195 sqm | 2nd floor `
 - If optional field is not available, it should not be displayed.
 
-Example of collapsed accordion: ![Collapsed Accordion](img/collapsed.png).
-Example of expanded accordion: ![Expanded Accordion](img/expanded.png).
+Example of collapsed accordion:
+
+![Collapsed Accordion](img/collapsed.png).
+
+Example of expanded accordion:
+
+![Expanded Accordion](img/expanded.png).
