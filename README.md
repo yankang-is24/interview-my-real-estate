@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Interview My Real Estate App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -26,10 +26,12 @@ in an accordion (see [mui Accordion component](https://mui.com/material-ui/react
 
 The accordion should have the following structure:
 
-- The accordion should have a header with the address.
-- The accordion details should be real estates grouped under the same address, it should follow the format
-  of `Apartment | 195 sqm | 2nd floor `
+- The accordion details should follow the format of: `Apartment | 195 sqm | 2nd floor `
 - If optional field is not available, it should not be displayed.
+
+Bonus points:
+- The accordion should have a header with the address.
+- The accordion details should be real estates grouped under the same address.
 
 Example of collapsed accordion:
 
